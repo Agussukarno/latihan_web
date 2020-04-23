@@ -16,6 +16,10 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+  header {
+    width: 100%;
+  }
+  
   .item {
     width: 100%;
   }
