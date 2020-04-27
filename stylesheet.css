@@ -44,6 +44,13 @@ header {
     line-height: 65px;
     color:white;
 }
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
 .top-wrapper {
     /* height: 580px; */
     /* width: 100%; */
